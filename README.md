@@ -1,1 +1,2 @@
 # resources
+edu use only
